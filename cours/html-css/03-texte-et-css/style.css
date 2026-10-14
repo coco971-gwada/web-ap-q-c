@@ -18,4 +18,19 @@ li {
 .recommandee {
     font-weight: bold;
     color: seagreen;
+    background-color: white;
+    transition: background-color 0.5s;
+}
+
+.deconseillee {
+    color: red;
+
+}
+
+em {
+    color: purple;
+}
+
+.recommandee:hover {
+    background-color: gold;
 }
