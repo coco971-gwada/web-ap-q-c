@@ -20,6 +20,7 @@ li {
     color: seagreen;
     background-color: white;
     transition: background-color 0.5s;
+    color: saddlebrown;
 }
 
 .deconseillee {
@@ -42,4 +43,14 @@ li {
 
 #race-vedette {
     color: purple;
+}
+
+#coco {
+    color: slateblue;
+
+}
+
+.grand {
+    margin-bottom: 10px;
+
 }
